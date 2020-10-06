@@ -1,0 +1,84 @@
+body {
+  background: #E8E8E8;
+}
+
+#vision-board {
+  margin: 50px auto;
+  width: 1200px;
+  height: 850px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  overflow: auto;
+  background: url('../img/background.png');
+  background-size: cover;
+  font-size: 20px;
+}
+
+.block {
+  float: left;
+  width: 400px;
+  box-sizing: border-box;
+}
+
+.small-block {
+	height: 210px;
+  padding: 20px 40px;
+}
+
+.large-block {
+	height: 430px;
+  padding:70px 40px;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.light-bg {
+  background: #FFFFFF;
+}
+
+.title .marker {
+  font-family: 'Permanent Marker', sans-serif;
+}
+
+.title {
+  font-size: 30px;
+  color: #FFFFFF;
+}
+
+.dark-bg {
+  background: #3B3B3B;
+}
+
+.highlight {
+  background: #FFF44F;
+}
+
+.code {
+  text-transform: none;
+  font-size: 38px;
+}
+
+.pay {
+  text-transform: none;
+  font-size: 38px;
+}
+
+.work {
+  text-transform: none;
+  font-size: 38px;
+}
+
+.challenge {
+  text-transform: none;
+  font-size: 38px;
+}
+
+.top-padding {
+ padding-top: 40px;
+} 
